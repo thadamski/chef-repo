@@ -18,6 +18,7 @@ validation_client_name   "verifract-validator"
 
 # Cookbooks
 cookbook_path            ["#{current_dir}/../cookbooks"]
+
 cookbook_copyright      "Verifract, LLC"
-cookbook_license        "apachev2"
+cookbook_license        "none"
 cookbook_email          "tadamski@rzsoftware.com"
